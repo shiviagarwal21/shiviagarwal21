@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiviagarwal21](https://github.com/shiviagarwal21)
 
-- ✨ Interests are front-end Development and working with visualization tools.
+- ✨ Interests are **front-end Development** and working with **visualization tools**.
 
 
 - 💬 Ask me about **front-end development**
